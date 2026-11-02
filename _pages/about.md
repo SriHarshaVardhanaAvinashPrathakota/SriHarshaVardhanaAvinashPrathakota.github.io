@@ -7,7 +7,7 @@ subtitle: Strategy &amp; Business Operations | Partnerships &amp; GTM
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
     <p>Executive, Strategic Initiatives</p>
     <p>Quadrafort Technologies</p>
