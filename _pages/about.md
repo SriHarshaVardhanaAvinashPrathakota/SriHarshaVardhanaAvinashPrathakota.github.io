@@ -2,33 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Strategy &amp; Business Operations | Partnerships &amp; GTM
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Executive, Strategic Initiatives</p>
+    <p>Quadrafort Technologies</p>
+    <p>India (open to relocation)</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a strategy and business operations professional with an MBA from **IIM Jammu**. At **Quadrafort Technologies**, a 500+ person IT consulting and services firm, I scaled the **LinkedIn Sales Solutions** partnership from zero to **INR 1 Crore in revenue across 8 enterprise deals in under four months**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I work across go-to-market strategy, commercial negotiation, partnership management and executive stakeholder engagement. I build the commercial framework, the outreach engine and the reporting that turn an alliance into a repeatable revenue line.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **INR 1 Crore** from the LinkedIn Sales Solutions partnership, Dec 2025 to Mar 2026
+- **60+** enterprise accounts across BFSI, manufacturing, hospitality, media and technology
+- **5** OEM alliances managed as single point of contact: Cast AI, MongoDB, Oracle, Anaplan and Harness
+- **4-city** GTM event series across Gurugram, Noida, Mumbai and Bangalore, with 25+ enterprise stakeholders at the flagship event
+- A partnership commercialization playbook adopted by senior leadership as the template for future OEM alliances
+
+I am looking for strategy, business operations and partnerships/GTM roles where breadth of ownership and operational pace drive impact. See my [CV](/cv/) for the full record, or reach me at [prathakotaharsha1727@gmail.com](mailto:prathakotaharsha1727@gmail.com).
